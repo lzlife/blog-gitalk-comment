@@ -1,1 +1,1 @@
-博客: [https://www.lzlifesharing.cn/]
+博客: <https://www.lzlifesharing.cn/>
