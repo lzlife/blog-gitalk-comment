@@ -1,2 +1,1 @@
-# blog-gitalk-comment
-博客评论 issues
+博客: [https://www.lzlifesharing.cn/]
